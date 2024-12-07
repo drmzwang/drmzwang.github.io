@@ -17,15 +17,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a Senior Lecturer in Construction Management at the [School of Architecture, Building and Civil Engineering](https://www.lboro.ac.uk/departments/abce/) at Loughborough University. In April 2024, I will join the [Department of Architecture and Civil Engineering](https://www.cityu.edu.hk/ace/) at City University of Hong Kong as an Assistant Professor.
+I am currently an Assistant Professor at the [Department of Architecture and Civil Engineering](https://www.cityu.edu.hk/ace/) at City University of Hong Kong (CityUHK). Before joining CityUHK, I worked as a Senior Lecturer in Construction Management at the [School of Architecture, Building and Civil Engineering](https://www.lboro.ac.uk/departments/abce/) at Loughborough University.
 
-I obtained my PhD degree from the Hong Kong University of Science and Technology (HKUST). Prior to joining Loughborough University, I was a Research Associate at the Centre for Systems Engineering and Innovation (CSEI) at Imperial College London.
+I obtained my PhD degree from the Hong Kong University of Science and Technology (HKUST). After my PhD study, I worked as a Research Associate at the Centre for Systems Engineering and Innovation (CSEI) at Imperial College London.
 
-My research mainly lies in intelligent infrastructure and smart construction. I have focused on the development and application of computer vision, artificial intelligence (AI), smart sensing, Building Information Modelling (BIM), and digital twin in the construction and operation of buildings and civil infrastructure. Specifically, I am interested in the following research areas: 
+My research mainly lies in intelligent infrastructure, construction robotics and information technologies. I have focused on the development and application of advanced computing technologies for the construction and operation of buildings and civil infrastructure, including but not limited to computer vision, deep learning, smart sensing, Building Information Modelling (BIM), and digital twin . Specifically, I am interested in the following research areas: 
 
+    •	Construction robotics 
     •	Intelligent infrastructure monitoring and management
-    •	Construction safety management
-    •	Adaptive and robust AI for the construction industry
+    •	Construction safety 
     •	Construction worker behaviour and status 
     •	BIM and Digital Twin
     •	Data fusion and interoperability
